@@ -1218,6 +1218,7 @@ PRODUCT_PACKAGES += \
     libfeature_lmv \
     libfeature_rss \
     libfeatureiodrv_mem \
+    libgpudataproducer \
     libimageio \
     libimageio_plat_drv \
     libimageio_plat_pipe \
@@ -1534,6 +1535,7 @@ PRODUCT_PACKAGES += \
     vendor_lib64_libaalservice_so \
     vendor_lib64_libaiselector_so \
     vendor_lib64_libdpframework_so \
+    vendor_lib64_libgpudataproducer_so \
     vendor_lib64_libmnl_so \
     vendor_lib64_libmtk_drvb_so \
     vendor_lib64_libneuralnetworks_sl_driver_mtk_prebuilt_so \
